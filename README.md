@@ -1,0 +1,1 @@
+ec2 instance creation using terraform and github actions
